@@ -1,15 +1,15 @@
 {
-  "name": "asynciteratorchannel",
+  "name": "async-iterator-channel",
   "version": "0.0.0",
   "private": true,
   "description": "An experiment I made to learn async iterators",
-  "homepage": "https://github.com/evelynhathaway/asynciteratorchannel#readme",
+  "homepage": "https://github.com/evelynhathaway/async-iterator-channel#readme",
   "bugs": {
-    "url": "https://github.com/evelynhathaway/asynciteratorchannel/issues"
+    "url": "https://github.com/evelynhathaway/async-iterator-channel/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evelynhathaway/asynciteratorchannel.git"
+    "url": "git+https://github.com/evelynhathaway/async-iterator-channel.git"
   },
   "license": "MIT",
   "author": "Evelyn Hathaway <npm@evelynhathaway.com> (https://evelynhathaway.com)",

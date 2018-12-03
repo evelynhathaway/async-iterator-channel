@@ -1,4 +1,4 @@
-# asynciteratorchannel
+# async-iterator-channel
 
 An experiment I made to learn async iterators added in Node.js `v10.0.0`. It allows an implementer to create a channel consumers can subscribe to (like observables or events) and use `for await` syntax instead of callbacks.
 
