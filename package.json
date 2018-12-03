@@ -1,0 +1,26 @@
+{
+  "name": "asynciteratorchannel",
+  "version": "0.0.0",
+  "private": true,
+  "description": "An experiment I made to learn async iterators",
+  "homepage": "https://github.com/evelynhathaway/asynciteratorchannel#readme",
+  "bugs": {
+    "url": "https://github.com/evelynhathaway/asynciteratorchannel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evelynhathaway/asynciteratorchannel.git"
+  },
+  "license": "MIT",
+  "author": "Evelyn Hathaway <npm@evelynhathaway.com> (https://evelynhathaway.com)",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "example": "node ./example/consumer.js"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  }
+}
