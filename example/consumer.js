@@ -14,5 +14,5 @@ const timeSubscriber = timeChannel.subscribe();
 		}
 	}
 
-	console.log("Time channel finished broadcasting.")
+	console.log("Time channel finished broadcasting.");
 })();
